@@ -1,6 +1,6 @@
 function findNumber(numbers) {
     let numberArray = numbers;
-    let result =0;
+    let result = 0;
 
     numberArray.forEach(item => {
         if (isOneNumber(item, numberArray))
