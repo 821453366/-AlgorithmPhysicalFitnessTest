@@ -1,13 +1,9 @@
 function findNumber(numbers) {
     let numberArray = numbers;
-    let result = 0;
 
-    numberArray.forEach(item => {
-        if (isOneNumber(item, numberArray))
-            result = item;
+    return numberArray.filter(item => {
+        return isOneNumber(item, numberArray)
     });
-
-    return result;
 }
 
 function isOneNumber(item, numberArray) {
