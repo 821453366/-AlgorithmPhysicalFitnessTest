@@ -1,35 +1,16 @@
-
 function narcissusNumber() {
-    let data =[];
+    let data = [];
 
     for (let i = 100; i < 1000; i++) {
-        let result = divisionNumber(i);
-        let sum = summation(result);
-        if(sum === i)
+        if (summation(i) === i)
             data.push(i);
     }
 
     return data;
 }
 
-function divisionNumber(i) {
-    let result = [];
-
-    result.push(parseInt(i / 100));
-    result.push(parseInt((i % 100) / 10));
-    result.push(parseInt(i % 10));
-
-    return result;
-}
-
-function summation(result) {
-    let sum = 0;
-
-    result.forEach(item => {
-        sum += parseInt(item * item * item);
-    });
-
-    return sum;
+function summation(i) {
+    return Math.pow(parseInt(i / 100), 3) + Math.pow(parseInt((i % 100) / 10), 3) + Math.pow(parseInt(i % 10), 3);
 }
 
 console.log(narcissusNumber());
