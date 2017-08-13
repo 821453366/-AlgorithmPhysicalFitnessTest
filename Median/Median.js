@@ -13,5 +13,5 @@ function median(array) {
 function isEvenNumbers(numbers) {
     return numbers.length % 2 === 0;
 }
-console.log(median([9, 6, 7, 8, 10]));
-console.log(median([9, 6, 7, 8]));
+console.log('[9, 6, 7, 8, 10]中位数：'+median([9, 6, 7, 8, 10]));
+console.log('[9, 6, 7, 8]中位数：'+median([9, 6, 7, 8]));
