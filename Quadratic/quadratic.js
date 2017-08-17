@@ -5,5 +5,4 @@ function quadratic(arr) {
 }
 
 let arr = [5, 3, 7, 1];
-console.log("[5, 3, 7, 1]二次方===>[" + quadratic(arr)+"]")
-
+console.log("[5,3,7,1]二次方===>[" + quadratic(arr)+"]")
