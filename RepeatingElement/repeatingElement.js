@@ -5,4 +5,4 @@ function repeatingElement(array) {
 }
 
 let arr = ['a', 'ab', 'ed', 'da', 'a', 'ed', 'b'];
-console.log("['a', 'ab', 'ed', 'da', 'a', 'ed', 'b']===>  " + repeatingElement(arr))
+console.log("['a', 'ab', 'ed', 'da', 'a', 'ed', 'b']===>  " + repeatingElement(arr));
