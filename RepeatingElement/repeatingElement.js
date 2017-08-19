@@ -4,5 +4,5 @@ function repeatingElement(array) {
     return setArray.filter(item => (array.filter(data => item === data).length) > 1);
 }
 
-let arr = ['a', 'ab', 'ed', 'da', 'a', 'ed', 'b'];
-console.log("['a', 'ab', 'ed', 'da', 'a', 'ed', 'b']===>  " + repeatingElement(arr));
+let arr = ['DuplicateRemoval', 'ab', 'ed', 'da', 'DuplicateRemoval', 'ed', 'b'];
+console.log("['DuplicateRemoval', 'ab', 'ed', 'da', 'DuplicateRemoval', 'ed', 'b']===>  " + repeatingElement(arr));
