@@ -5,7 +5,7 @@ function mostFrequently(str) {
     let max = findTheMaximum(result);
     let data = obtainedMaxNumber(result, max);
 
-    return joinResult(data);
+    return data;
 }
 
 function statisticNumber(setArray, array) {
@@ -31,19 +31,15 @@ function findTheMaximum(result) {
 }
 
 function obtainedMaxNumber(result, max) {
-    let data = [];
+    let data = {};
 
     result.forEach(item => {
         if (item.count === max) {
-            data.push(item.key + ":" + item.count);
+            data[item.key] = item.count;
         }
     });
 
     return data;
-}
-
-function joinResult(data) {
-    return "{" + data.join(",") + "}";
 }
 console.log(mostFrequently("abcsbaddbizdbas"));
 console.log(mostFrequently("aaaaabbdbdbb"));
