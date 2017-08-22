@@ -41,5 +41,6 @@ function obtainedMaxNumber(result, max) {
 
     return data;
 }
+
 console.log(mostFrequently("abcsbaddbizdbas"));
 console.log(mostFrequently("aaaaabbdbdbb"));
