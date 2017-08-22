@@ -43,5 +43,3 @@ function obtainedMaxNumber(result, max) {
 }
 
 module.exports = mostFrequently;
-console.log(mostFrequently("abcsbaddbizdbas"));
-console.log(mostFrequently("aaaaabbdbdbb"));
