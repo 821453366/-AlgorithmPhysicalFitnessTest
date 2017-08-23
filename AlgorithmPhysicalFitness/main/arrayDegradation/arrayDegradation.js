@@ -1,6 +1,6 @@
 function arrayDegradation(arr) {
     let result = [];
-    let number = (arr.toString().replace(/[^0-9]/ig, "")).split("");
+    let number = arr.toString().replace(/[^0-9]/ig, "").split("");
 
     number.forEach(item => {
         result.push(parseInt(item));
