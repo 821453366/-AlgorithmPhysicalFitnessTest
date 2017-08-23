@@ -7,9 +7,9 @@ describe("给定一个数组，该数组中的每个元素要么是个数组，�
         expect(result).toEqual(data);
     });
 
-    it("测试二：[1,2,[1,2],[3,4]]", function () {
-        let result = arrayDegradation([1,2,[1,2],[3,4]]);
-        let data =  [1,2,1,2,3,4];
+    it("测试二：[1,2,[1,2],[3,14]]", function () {
+        let result = arrayDegradation([1,2,[1,2],[3,14]]);
+        let data =  [1,2,1,2,3,14];
         expect(result).toEqual(data);
     });
 
