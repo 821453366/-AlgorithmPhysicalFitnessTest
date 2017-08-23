@@ -13,4 +13,3 @@ function intersectionArray(nums1, nums2) {
 }
 
 module.exports = intersectionArray;
-console.log(intersectionArray([1, 2, 2, 1], [2, 2]));
