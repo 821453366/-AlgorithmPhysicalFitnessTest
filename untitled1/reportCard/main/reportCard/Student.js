@@ -35,7 +35,6 @@ function addStudent(Info) {
     } else if (infoArray.length >= 4) {
         studentAchievement(infoArray);
         addStudentsSuccess(infoArray);
-        console.log(allStudentAchievement);
     }
 
     reportCard();
@@ -68,7 +67,6 @@ function studentInfoPrint(studentNoTitle) {
         studentInfoPrint(STUDENT_NO_ARRAY_ERR);
     } else {
         selectStudentInfo = allStudentAchievement.filter(item => (studentNoArray.filter(data => data === item.no)).length > 0);
-        console.log(selectStudentInfo);
         printeportCard();
     }
 }
@@ -79,21 +77,26 @@ function printeportCard() {
     let totalScoreArray = [];
     str +=`成绩单
 姓名|数学|语文|英语|编程|平均分|总分 
-========================`;
+========================\n`;
     selectStudentInfo.forEach(item => {
          let Average =  (parseInt((item.subject_a).split(":")[1])+parseInt((item.subject_b).split(":")[1])+parseInt((item.subject_c).split(":")[1])+parseInt((item.subject_d).split(":")[1]))/4;
         AverageArray.push(Average);
          let totalScore =  parseInt((item.subject_a).split(":")[1])+parseInt((item.subject_b).split(":")[1])+parseInt((item.subject_c).split(":")[1])+parseInt((item.subject_d).split(":")[1]);
-        totalScoreArray.push(totalScoreArray);
-        str +=`${item.name}|${(item.subject_a).split(":")[1]}|${(item.subject_b).split(":")[1]}|${(item.subject_c).split(":")[1]}|${(item.subject_d).split(":")[1]}|${Average}|${totalScore}`;
+        totalScoreArray.push(totalScore);
+        str +=`${item.name}|${(item.subject_a).split(":")[1]}|${(item.subject_b).split(":")[1]}|${(item.subject_c).split(":")[1]}|${(item.subject_d).split(":")[1]}|${Average}|${totalScore}\n`;
     })
-    
 
-str += `========================
-全班总分平均数：${AverageArray[0]+AverageArray[1]}
-全班总分中位数：${totalScoreArray[0]+totalScoreArray[1]}`;
+let average = (AverageArray[0]+AverageArray[1])/2;
+    let totalScore = totalScoreArray.sort((a,b)=>a-b).sort((a,b)=>a-b)[totalScoreArray.length/2];
+str += `\n========================
+全班总分平均数：${average}
+全班总分中位数：${totalScore}`;
 
     console.log(str);
+    reportCard();
 }
 reportCard();
 module.exports = reportCard;
+// 马欢欢,101,1501,数学:78,语文:88,英语:99,编程:88
+// 小花,102,1501,数学:77,语文:55,英语:66,编程:44
+//小明,103,1501,数学:44,语文:77,英语:88,编程:55
