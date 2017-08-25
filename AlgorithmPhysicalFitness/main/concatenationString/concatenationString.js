@@ -1,14 +1,12 @@
-function arrayDegradation(arr) {
-    let result = [];
-    let number = arr.toString().split(",");
+function leftPad(characterString, number, alphabetic) {
+    let howLong = number - characterString.length;
+    let newCharacterString = '';
 
-    number.forEach(item => {
-        result.push(parseInt(item));
-    });
+    for(let i =0;i<howLong;i++){
+        newCharacterString+=alphabetic;
+    }
 
-    return result;
+    return newCharacterString+characterString;
 }
-module.exports = arrayDegradation;
-console.log(arrayDegradation([1, 2, [1, 2]]));
-console.log(arrayDegradation([1, 2, [1, 2], [3, 14]]));
-console.log(arrayDegradation([4, [3, [2, [1]]]]));
+module.exports = leftPad;
+console.log(leftPad('hello', 20, '1'));

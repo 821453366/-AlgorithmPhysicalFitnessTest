@@ -1,0 +1,12 @@
+{
+  "name": "ThoughtWorksTest",
+  "version": "1.0.0",
+  "description": "jasmine test",
+  "main": "index.js",
+  "scripts": {
+    "test": "node run-tests.js"
+  },
+  "dependencies": {
+    "cli-interact": "^0.1.9"
+  }
+}

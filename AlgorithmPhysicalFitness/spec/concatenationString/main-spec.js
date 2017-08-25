@@ -1,22 +1,10 @@
-const arrayDegradation = require("../../main/arrayDegradation/arrayDegradation");
+const leftPad = require("../../main/concatenationString/concatenationString");
 
-describe("给定一个数组，该数组中的每个元素要么是个数组，要么是整数。将其变成一个只包含整数的简单数组", function () {
-    it("测试一：[1,2,[1,2]]", function () {
-        let result = arrayDegradation([1,2,[1,2]]);
-        let data =  [1,2,1,2];
+describe("实现一个left-pad函数", function () {
+    it("测试一：", function () {
+
+        let result = leftPad('hello',20,'1');
+        let data =  '111111111111111hello';
         expect(result).toEqual(data);
     });
-
-    it("测试二：[1,2,[1,2],[3,14]]", function () {
-        let result = arrayDegradation([1,2,[1,2],[3,14]]);
-        let data =  [1,2,1,2,3,14];
-        expect(result).toEqual(data);
-    });
-
-    it("测试三：[4,[3,[2,[1]]]]", function () {
-        let result = arrayDegradation([4,[3,[2,[1]]]]);
-        let data =  [4,3,2,1];
-        expect(result).toEqual(data);
-    });
-
 });
