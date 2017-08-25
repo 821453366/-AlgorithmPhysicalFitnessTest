@@ -9,4 +9,3 @@ function leftPad(characterString, number, alphabetic) {
     return newCharacterString+characterString;
 }
 module.exports = leftPad;
-console.log(leftPad('hello', 20, '1'));
