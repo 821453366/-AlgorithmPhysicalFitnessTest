@@ -3,5 +3,4 @@ function arrayLast(arr, elem) {
 }
 let arr = [0, 1, 0, 3, 12];
 let elem = 0;
-console.log(arrayLast(arr, elem));
 module.exports = arrayLast;
