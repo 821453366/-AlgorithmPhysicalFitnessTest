@@ -29,7 +29,4 @@ function isThreeMultiple(num) {
 function isFiveMultiple(num) {
     return num % 5 === 0;
 }
-console.log("6 ==>"+divideExactly(6));
-console.log("10 ==>"+divideExactly(10));
-console.log("30 ==>"+divideExactly(30));
 module.exports =divideExactly;

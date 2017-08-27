@@ -2,16 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0bd59887-6255-4bbe-9247-4e9670375c7e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlgorithmPhysicalFitness/main/arrayLast/arrayLast.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlgorithmPhysicalFitness/spec/arrayLast/main-spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/preferred-vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlgorithmPhysicalFitness/main/encodingAndDecoding/encodingAndDecoding.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlgorithmPhysicalFitness/spec/encodingAndDecoding/main-spec.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlgorithmPhysicalFitness/main/arrayDegradation/arrayDegradation.js" afterPath="$PROJECT_DIR$/AlgorithmPhysicalFitness/main/arrayDegradation/arrayDegradation.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlgorithmPhysicalFitness/main/concatenationString/concatenationString.js" afterPath="$PROJECT_DIR$/AlgorithmPhysicalFitness/main/concatenationString/concatenationString.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlgorithmPhysicalFitness/spec/concatenationString/main-spec.js" afterPath="$PROJECT_DIR$/AlgorithmPhysicalFitness/spec/concatenationString/main-spec.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlgorithmPhysicalFitness/main/divideExactly/divideExactly.js" afterPath="$PROJECT_DIR$/AlgorithmPhysicalFitness/main/divideExactly/divideExactly.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
+    <ignored path="$PROJECT_DIR$/.idea/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,21 +22,21 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="arrayLast.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/AlgorithmPhysicalFitness/main/arrayLast/arrayLast.js">
+      <file leaf-file-name="encodingAndDecoding.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/AlgorithmPhysicalFitness/main/encodingAndDecoding/encodingAndDecoding.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="5" column="33" lean-forward="true" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
+            <state relative-caret-position="313">
+              <caret line="36" column="1" lean-forward="true" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="1" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="main-spec.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AlgorithmPhysicalFitness/spec/arrayLast/main-spec.js">
+        <entry file="file://$PROJECT_DIR$/AlgorithmPhysicalFitness/spec/encodingAndDecoding/main-spec.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="5" column="23" lean-forward="true" selection-start-line="4" selection-start-column="7" selection-end-line="5" selection-end-column="23" />
+            <state relative-caret-position="265">
+              <caret line="10" column="43" lean-forward="false" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="43" />
               <folding />
             </state>
           </provider>
@@ -54,9 +54,11 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>’</find>
+      <find>int</find>
     </findStrings>
     <replaceStrings>
       <replace>'</replace>
+      <replace>let</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -87,14 +89,18 @@
         <option value="$PROJECT_DIR$/AlgorithmPhysicalFitness/main/mostFrequently/mostFrequently.js" />
         <option value="$PROJECT_DIR$/AlgorithmPhysicalFitness/spec/intersectionArray/main-spec.js" />
         <option value="$PROJECT_DIR$/AlgorithmPhysicalFitness/main/intersectionArray/intersectionArray.js" />
-        <option value="$PROJECT_DIR$/AlgorithmPhysicalFitness/spec/arrayDegradation/main-spec.js" />
-        <option value="$PROJECT_DIR$/AlgorithmPhysicalFitness/main/concatenationString/concatenationString.js" />
         <option value="$PROJECT_DIR$/AlgorithmPhysicalFitness/main/arrayDegradation/arrayDegradation.js" />
         <option value="$PROJECT_DIR$/AlgorithmPhysicalFitness/spec/concatenationString/main-spec.js" />
         <option value="$PROJECT_DIR$/untitled1/reportCard/main/reportCard/reportCard.js" />
         <option value="$PROJECT_DIR$/untitled1/reportCard/main/reportCard/Student.js" />
+        <option value="$PROJECT_DIR$/AlgorithmPhysicalFitness/main/concatenationString/concatenationString.js" />
         <option value="$PROJECT_DIR$/AlgorithmPhysicalFitness/spec/arrayLast/main-spec.js" />
         <option value="$PROJECT_DIR$/AlgorithmPhysicalFitness/main/arrayLast/arrayLast.js" />
+        <option value="$PROJECT_DIR$/AlgorithmPhysicalFitness/spec/divideExactly/main-spec.js" />
+        <option value="$PROJECT_DIR$/AlgorithmPhysicalFitness/main/divideExactly/divideExactly.js" />
+        <option value="$PROJECT_DIR$/AlgorithmPhysicalFitness/spec/arrayDegradation/main-spec.js" />
+        <option value="$PROJECT_DIR$/AlgorithmPhysicalFitness/spec/encodingAndDecoding/main-spec.js" />
+        <option value="$PROJECT_DIR$/AlgorithmPhysicalFitness/main/encodingAndDecoding/encodingAndDecoding.js" />
       </list>
     </option>
   </component>
@@ -257,7 +263,29 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="arrayLast" />
+              <option name="myItemId" value="encodingAndDecoding" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AlgorithmPhysicalFitnessTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AlgorithmPhysicalFitnessTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AlgorithmPhysicalFitness" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="divideExactly" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -271,14 +299,15 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Font" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/AlgorithmPhysicalFitness/spec/arrayLast" />
+      <recent name="$PROJECT_DIR$/AlgorithmPhysicalFitness/spec/encodingAndDecoding" />
       <recent name="$PROJECT_DIR$/AlgorithmPhysicalFitness/spec" />
+      <recent name="$PROJECT_DIR$/AlgorithmPhysicalFitness/spec/divideExactly" />
+      <recent name="$PROJECT_DIR$/AlgorithmPhysicalFitness/spec/arrayLast" />
       <recent name="$PROJECT_DIR$/AlgorithmPhysicalFitness/main" />
-      <recent name="$PROJECT_DIR$/AlgorithmPhysicalFitness/spec/arrayDegradation" />
-      <recent name="$PROJECT_DIR$/AlgorithmPhysicalFitness/spec/intersectionArray" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -293,13 +322,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.arrayLast.js">
-    <configuration default="false" name="mostFrequently.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="mostFrequently.js" working-dir="$PROJECT_DIR$/mostFrequently">
-      <method />
-    </configuration>
-    <configuration default="false" name="arrayDegradation.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="arrayDegradation.js" working-dir="$PROJECT_DIR$/AlgorithmPhysicalFitness/main/arrayDegradation">
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Node.js.encodingAndDecoding.js">
     <configuration default="false" name="concatenationString.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="concatenationString.js" working-dir="$PROJECT_DIR$/AlgorithmPhysicalFitness/main/concatenationString">
       <method />
     </configuration>
@@ -307,6 +330,15 @@
       <method />
     </configuration>
     <configuration default="false" name="arrayLast.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="arrayLast.js" working-dir="$PROJECT_DIR$/AlgorithmPhysicalFitness/main/arrayLast">
+      <method />
+    </configuration>
+    <configuration default="false" name="divideExactly.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="divideExactly.js" working-dir="$PROJECT_DIR$/AlgorithmPhysicalFitness/main/divideExactly">
+      <method />
+    </configuration>
+    <configuration default="false" name="encodingAndDecoding.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="encodingAndDecoding.js" working-dir="$PROJECT_DIR$/AlgorithmPhysicalFitness/main/encodingAndDecoding">
+      <method />
+    </configuration>
+    <configuration default="true" type="ApexTest" factoryName="Apex Test">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -376,19 +408,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.mostFrequently.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.arrayDegradation.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.concatenationString.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.reportCard.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.arrayLast.js" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.concatenationString.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.reportCard.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.arrayLast.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.divideExactly.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.encodingAndDecoding.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.arrayLast.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.reportCard.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.concatenationString.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.arrayDegradation.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.mostFrequently.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.encodingAndDecoding.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.divideExactly.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.arrayLast.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.reportCard.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.concatenationString.js" />
       </list>
     </recent_temporary>
   </component>
@@ -427,52 +459,42 @@
       <workItem from="1503468314514" duration="5977000" />
       <workItem from="1503554901008" duration="2972000" />
       <workItem from="1503631744343" duration="4822000" />
-      <workItem from="1503641130415" duration="806000" />
+      <workItem from="1503641130415" duration="2799000" />
+      <workItem from="1503651171861" duration="823000" />
+      <workItem from="1503710945109" duration="604000" />
+      <workItem from="1503726859172" duration="2148000" />
+      <workItem from="1503814267475" duration="4445000" />
+      <workItem from="1503840591059" duration="450000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="91106000" />
+    <option name="totallyTimeSpent" value="101569000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="-11" width="1922" height="1092" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24960423" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32944915" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug Logs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30614406" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.64526314" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3993644" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Execute Anonymous" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3707627" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3993644" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Salesforce" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32944915" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32944915" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
-    <layout-to-restore>
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32944915" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3358051" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24960423" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32944915" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3993644" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="processedProjectFiles" value="true" />
@@ -485,41 +507,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/PrimeFactors/primeFactors.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="359">
-          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/NarcissisticNumber/NarcissisticNumber.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="15" column="31" lean-forward="true" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Median/Median.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="9" column="51" lean-forward="true" selection-start-line="9" selection-start-column="51" selection-end-line="9" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LinkedList/LinkedList.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="9" column="24" lean-forward="true" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FindNumber/findNumber.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="13" column="29" lean-forward="true" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/FindIndex/findIndex.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
@@ -732,13 +719,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AlgorithmPhysicalFitness/main/mostFrequently/mostFrequently.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="434">
-          <caret line="45" column="0" lean-forward="true" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/AlgorithmPhysicalFitness/spec/mostFrequently/main-spec.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -754,24 +734,34 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/AlgorithmPhysicalFitness/spec/arrayDegradation/arrayDegradation.js" />
+    <entry file="file://$PROJECT_DIR$/untitled1/reportCard/main/reportCard/reportCard.js" />
+    <entry file="file://$PROJECT_DIR$/untitled1/reportCard/main/reportCard/Student.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="737">
+          <caret line="101" column="37" lean-forward="false" selection-start-line="101" selection-start-column="2" selection-end-line="101" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AlgorithmPhysicalFitness/spec/arrayLast/arrayLast.js" />
     <entry file="file://$PROJECT_DIR$/AlgorithmPhysicalFitness/main/intersectionArray/intersectionArray.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
+        <state relative-caret-position="250">
           <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AlgorithmPhysicalFitness/spec/arrayDegradation/main-spec.js">
+    <entry file="file://$PROJECT_DIR$/AlgorithmPhysicalFitness/main/concatenationString/concatenationString.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="10" column="32" lean-forward="false" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+        <state relative-caret-position="297">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AlgorithmPhysicalFitness/main/arrayDegradation/arrayDegradation.js">
+    <entry file="file://$PROJECT_DIR$/AlgorithmPhysicalFitness/spec/divideExactly/divideExactly.js" />
+    <entry file="file://$PROJECT_DIR$/AlgorithmPhysicalFitness/spec/arrayLast/main-spec.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        <state relative-caret-position="108">
+          <caret line="4" column="16" lean-forward="false" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="16" />
         </state>
       </provider>
     </entry>
@@ -779,47 +769,63 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
           <caret line="8" column="7" lean-forward="false" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/untitled1/reportCard/main/reportCard/reportCard.js" />
-    <entry file="file://$PROJECT_DIR$/AlgorithmPhysicalFitness/main/concatenationString/concatenationString.js">
+    <entry file="file://$PROJECT_DIR$/AlgorithmPhysicalFitness/main/mostFrequently/mostFrequently.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="11" column="39" lean-forward="false" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
-          <folding />
+        <state relative-caret-position="426">
+          <caret line="44" column="0" lean-forward="true" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/untitled1/reportCard/main/reportCard/Student.js">
+    <entry file="file://$PROJECT_DIR$/AlgorithmPhysicalFitness/main/arrayDegradation/arrayDegradation.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="737">
-          <caret line="101" column="37" lean-forward="false" selection-start-line="101" selection-start-column="2" selection-end-line="101" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AlgorithmPhysicalFitness/spec/arrayLast/arrayLast.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AlgorithmPhysicalFitness/spec/arrayLast/main-spec.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="5" column="23" lean-forward="true" selection-start-line="4" selection-start-column="7" selection-end-line="5" selection-end-column="23" />
-          <folding />
+        <state relative-caret-position="270">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/AlgorithmPhysicalFitness/main/arrayLast/arrayLast.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
-          <caret line="5" column="33" lean-forward="true" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AlgorithmPhysicalFitness/spec/divideExactly/main-spec.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="18" column="100" lean-forward="false" selection-start-line="18" selection-start-column="100" selection-end-line="18" selection-end-column="100" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AlgorithmPhysicalFitness/main/divideExactly/divideExactly.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AlgorithmPhysicalFitness/spec/arrayDegradation/main-spec.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="61" lean-forward="false" selection-start-line="0" selection-start-column="45" selection-end-line="0" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AlgorithmPhysicalFitness/spec/encodingAndDecoding/main-spec.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="10" column="43" lean-forward="false" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AlgorithmPhysicalFitness/main/encodingAndDecoding/encodingAndDecoding.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="313">
+          <caret line="36" column="1" lean-forward="true" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="1" />
           <folding />
         </state>
       </provider>
