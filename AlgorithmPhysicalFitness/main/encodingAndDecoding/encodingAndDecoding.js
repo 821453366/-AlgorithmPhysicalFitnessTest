@@ -35,7 +35,6 @@ function LongGreaterThree(data) {
 
     return 0;
 }
-
 console.log("12==>"+encodingAndDecoding(12));
 console.log("66==>"+encodingAndDecoding(66));
 console.log("123==>"+encodingAndDecoding(123));
